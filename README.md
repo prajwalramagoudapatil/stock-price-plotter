@@ -145,4 +145,4 @@ http://localhost:8501
 Prajwal Patil
 
 
-[project-demo.mp4](https://github.com/prajwalramagoudapatil/stock-price-plotter/blob/main/project-demo.mp4)
+[project-demo.mp4](https://github.com/prajwalramagoudapatil/stock-price-plotter/project-demo.mp4)
