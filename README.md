@@ -1,6 +1,4 @@
 
-
-```
 # Prajwal Patil – Code Test  
 Historical Price Visualizer
 
@@ -138,6 +136,6 @@ http://localhost:8501
 
 Prajwal Patil
 
-```
+
 
 
