@@ -6,8 +6,6 @@ Historical Price Visualizer
 [Video description](https://github.com/prajwalramagoudapatil/stock-price-plotter/project-demo.mp4)
 
 ---
-https://github.com/user-attachments/
-
 ## 📌 Project Overview
 
 This project was developed as part of a technical code assessment.
