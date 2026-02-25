@@ -124,18 +124,17 @@ http://localhost:8501
 
 ## ✅ Assignment Requirements Coverage
 
-✔ Fetch historical AAPL data
-✔ Save results as `historicalPrices.json`
-✔ Generate a labeled matplotlib chart
-✔ Save chart as `chart.png`
-✔ Submit via GitHub repository
+✔ Fetch historical AAPL data \
+✔ Save results as `historicalPrices.json` \ 
+✔ Generate a labeled matplotlib chart \
+✔ Save chart as `chart.png` \
+✔ Submit via GitHub repository \
 
 ---
 
 ## 👤 Author
 
 Prajwal Patil
-
 
 
 
