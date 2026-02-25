@@ -3,6 +3,8 @@
 Historical Price Visualizer
 
 ---
+![Video description](project-demo.mp4)
+---
 
 ## 📌 Project Overview
 
