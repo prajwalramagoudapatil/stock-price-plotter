@@ -9,7 +9,7 @@ https://github.com/prajwalramagoudapatil/stock-price-plotter/blob/main/project-d
 <video width="640" height="360" controls>
   <source src="project-demo.mp4" type="video/mp4">
 </video>
-<video src="[project-demo.mp4](https://github.com/prajwalramagoudapatil/stock-price-plotter/blob/main/project-demo.mp4)" width="700" controls></video>
+<video src="https://github.com/prajwalramagoudapatil/stock-price-plotter/blob/main/project-demo.mp4" width="700" controls></video>
 
 ---
 
