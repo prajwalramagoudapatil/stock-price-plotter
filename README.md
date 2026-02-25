@@ -3,12 +3,8 @@
 Historical Price Visualizer
 
 ---
-![Video description](project-demo.mp4)
+[Video description](https://github.com/prajwalramagoudapatil/stock-price-plotter/project-demo.mp4)
 
----
-<p align="center">
-<video src="https://github.com/user-attachments/project-demo.mp4" width="700" controls></video>
-</p>
 ---
 https://github.com/user-attachments/
 
