@@ -7,10 +7,10 @@ Historical Price Visualizer
 
 ---
 <p align="center">
-<video src="https://github.com/prajwalramagoudapatil/stock-price-plotter/blob/main/project-demo.mp4" width="700" controls></video>
+<video src="https://github.com/user-attachments/project-demo.mp4" width="700" controls></video>
 </p>
 ---
-
+https://github.com/user-attachments/
 
 ## 📌 Project Overview
 
