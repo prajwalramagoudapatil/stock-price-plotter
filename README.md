@@ -4,12 +4,12 @@ Historical Price Visualizer
 
 ---
 ![Video description](project-demo.mp4)
-
+https://github.com/prajwalramagoudapatil/stock-price-plotter/blob/main/project-demo.mp4
 ---
 <video width="640" height="360" controls>
   <source src="project-demo.mp4" type="video/mp4">
 </video>
-<video src="project-demo.mp4" width="700" controls></video>
+<video src="[project-demo.mp4](https://github.com/prajwalramagoudapatil/stock-price-plotter/blob/main/project-demo.mp4)" width="700" controls></video>
 
 ---
 
@@ -147,4 +147,4 @@ http://localhost:8501
 Prajwal Patil
 
 
-
+[project-demo.mp4](https://github.com/prajwalramagoudapatil/stock-price-plotter/blob/main/project-demo.mp4)
