@@ -5,7 +5,7 @@
 [Demo Video](https://github.com/prajwalramagoudapatil/stock-price-plotter/project-demo.mp4)
 ---
 
-Watch on YouTube
+Watch on YouTube(click on the image below)
 ---
 [![Watch on YT](https://img.youtube.com/vi/5FmtEjN7dHw/0.jpg)](https://youtu.be/5FmtEjN7dHw?si=PFSEe7D6Qz039XK3)
 
