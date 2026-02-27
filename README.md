@@ -1,7 +1,6 @@
 
 # Historical Price Visualizer
 
----
 [Demo Video](https://github.com/prajwalramagoudapatil/stock-price-plotter/project-demo.mp4)
 ---
 
